@@ -1,5 +1,8 @@
 # Tribbles
 
+![image](https://user-images.githubusercontent.com/15154218/180205712-0cb59e23-4656-4bbb-8593-e81205d018a5.png)
+
+
 ## Introduction
 
 The USS Enterprise has a little trouble with Tribbles. 
